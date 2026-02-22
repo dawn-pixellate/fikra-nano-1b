@@ -17,7 +17,7 @@ All notable changes to Fikra will be documented in this file.
 - Context: 2048 tokens
 - License: Apache 2.0
 
-## [0.1.0] - 2026-01-XX
+## [0.1.0] - 2026-01-29
 
 ### Added
 - Private alpha release
