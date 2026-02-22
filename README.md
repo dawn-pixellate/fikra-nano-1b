@@ -216,7 +216,7 @@ wget https://huggingface.co/lacesseapp/Fikra-1B-Nano-v0.2-GGUF/resolve/main/fikr
 - Format: GGUF (optimized for CPU)
 
 **Training:**
-- Developed by: [Lacesse Ventures](https://lacesse.co.ke)
+- Developed by: [Lacesse](https://lacesse.co.ke)
 - Location: Nairobi, Kenya 🇰🇪
 - Training data: Open source datasets + proprietary Kenyan knowledge
 - Compute: Consumer GPUs (A4000, RTX 3090)
@@ -254,7 +254,7 @@ See [LICENSE](LICENSE) for details.
 
 Built by the same team:
 
-- **[Lacesse Duka](https://lacesse.co.ke)** - E-commerce platform for African merchants (60-second online shops)
+- **[Lacesse Duka](https://lacesse.co.ke/duka)** - E-commerce platform for African merchants (60-second online shops)
 - **Fikra 7B** (coming Q2 2026) - More powerful reasoning model
 
 ---
@@ -279,8 +279,8 @@ Built by the same team:
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/fikra?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/fikra?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dawn-pixellate/fikra-nano-1b?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dawn-pixellate/fikra-nano-1b?style=social)
 ![PyPI downloads](https://static.pepy.tech/badge/fikra)
 
 ---
