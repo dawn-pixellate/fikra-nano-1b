@@ -31,7 +31,7 @@ Fikra Nano is a **1 billion parameter language model** fine-tuned for **mathemat
 - ✅ **Private** - Your data never leaves your machine
 - ✅ **Apache 2.0** - Use commercially, embed in products
 
-Built by [James Miano](https://linkedin.com/in/jamesmiano) / [Lacesse Ventures](https://lacesse.co.ke) 🇰🇪
+Built by [James Miano](https://linkedin.com/in/jamesmiano) / [Lacesse](https://lacesse.co.ke) 🇰🇪
 
 ---
 
@@ -217,9 +217,10 @@ wget https://huggingface.co/lacesseapp/Fikra-1B-Nano-v0.2-GGUF/resolve/main/fikr
 
 **Training:**
 - Developed by: [Lacesse](https://lacesse.co.ke)
+- Original model: [Huggingface](https://huggingface.co/lacesseapp/Fikra-1B-Nano-v0.2)
 - Location: Nairobi, Kenya 🇰🇪
 - Training data: Open source datasets + proprietary Kenyan knowledge
-- Compute: Consumer GPUs (A4000, RTX 3090)
+- Compute: Consumer GPUs (T4)
 
 ---
 
